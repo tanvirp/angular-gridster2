@@ -7,7 +7,6 @@
   ],
   "dependencies": {
     "angular": "~1.x",
-    "lodash": "~3.10.1",
     "javascript-detect-element-resize": "~0.5.3"
   },
   "devDependencies": {
